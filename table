@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!-- açıklama satırı -->
+<html>
+<head>
+<title>Vildan'ın Web Sayfası</title>
+<meta charset = "utf-8"/> <!-- Türkçe karakter eklemek -->
+</head>
+<body bgcolor="#ffc899">
+<marquee direction="right">TBD Genç</marquee>
+<h1 align="center"><font color="red">Web Tasarım Kursu</font></h1>
+<h2>Web Tasarım</h2>
+<h6>Vildan Öztürk Kavak</h6>
+<p>    Lorem ipsum dolor sit amet,<br> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><strong>Lorem ipsum dolor</strong></p>
+<ins>Lorem ipsum dolor</ins><br>
+<mark>Lorem ipsum dolor</mark><br>
+H<sub>2</sub>O<br>
+32<sup>2</sup><br>
+<q>Bilgi Güçtür.</q>
+<h1>Sıralı Listeleme</h1>
+<ol type ="i" start="3">
+<li>Ankara</li>
+	<ul type="square">
+		<li>Çayyolu</li>
+		<li>Batıkent</li>
+	</ul>
+<li>İstanbul</li>
+</ol>
+
+<ul type ="circle" start="3">
+<li>Elma</li>
+<li>Çilek</li>
+</ul>
+<table border="1">
+<tr bgcolor="blue">
+<td>Takım Adları</td>
+<td>Kuruluş Yılları</td>
+<td>Şampiyonluklar</td>
+</tr>
+
+<tr>
+<td>Fenerbahçe</td>
+<td>1907</td>
+<td>5</td>
+</tr>
+
+<tr>
+<td>Beşiktaş</td>
+<td>1903</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Galatasaray</td>
+<td>1905</td>
+<td>2</td>
+</tr>
+</table>
+</body>
+</html>
